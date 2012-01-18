@@ -1,0 +1,12 @@
+# Typus Roles Configuration File
+#
+# Use the README file as a reference to customize settings.
+
+admin:
+  Category: create, read, update, delete
+  Deal: create, read, update, delete
+  DealLocation: create, read, update, delete
+  Sale: create, read, update, delete
+  SaleDetail: create, read, update, delete
+  User: create, read, update, delete
+  UserType: create, read, update, delete

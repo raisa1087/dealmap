@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/DealMap/!svn/ver/6/trunk/application/db/migrate
+END
+20120116030417_create_users.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/DealMap/!svn/ver/4/trunk/application/db/migrate/20120116030417_create_users.rb
+END
+20120116025325_create_deal_locations.rb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/DealMap/!svn/ver/4/trunk/application/db/migrate/20120116025325_create_deal_locations.rb
+END
+20120116023116_create_deals.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/DealMap/!svn/ver/4/trunk/application/db/migrate/20120116023116_create_deals.rb
+END
+20120116031049_create_sales.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/DealMap/!svn/ver/4/trunk/application/db/migrate/20120116031049_create_sales.rb
+END
+20120116034036_create_sale_details.rb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/DealMap/!svn/ver/4/trunk/application/db/migrate/20120116034036_create_sale_details.rb
+END
+20120116045627_create_user_types.rb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/DealMap/!svn/ver/4/trunk/application/db/migrate/20120116045627_create_user_types.rb
+END
+20120116020758_create_categories.rb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/DealMap/!svn/ver/4/trunk/application/db/migrate/20120116020758_create_categories.rb
+END
+20120116090106_create_searches.rb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/DealMap/!svn/ver/6/trunk/application/db/migrate/20120116090106_create_searches.rb
+END

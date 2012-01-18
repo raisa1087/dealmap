@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/DealMap/!svn/ver/6/trunk/application/app/controllers
+END
+searches_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/DealMap/!svn/ver/6/trunk/application/app/controllers/searches_controller.rb
+END
+deal_locations_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/DealMap/!svn/ver/4/trunk/application/app/controllers/deal_locations_controller.rb
+END
+users_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/DealMap/!svn/ver/4/trunk/application/app/controllers/users_controller.rb
+END
+user_types_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/DealMap/!svn/ver/4/trunk/application/app/controllers/user_types_controller.rb
+END
+application_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/DealMap/!svn/ver/4/trunk/application/app/controllers/application_controller.rb
+END
+categories_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/DealMap/!svn/ver/4/trunk/application/app/controllers/categories_controller.rb
+END
+sales_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/DealMap/!svn/ver/4/trunk/application/app/controllers/sales_controller.rb
+END
+deals_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/DealMap/!svn/ver/4/trunk/application/app/controllers/deals_controller.rb
+END
+sale_details_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/DealMap/!svn/ver/4/trunk/application/app/controllers/sale_details_controller.rb
+END

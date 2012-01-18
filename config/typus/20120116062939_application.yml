@@ -1,0 +1,74 @@
+# Typus Models Configuration File
+#
+# Use the README file as a reference to customize settings.
+
+Category:
+  fields:
+    default: category_name, description
+    form: category_name, description
+  order_by: 
+  relationships: 
+  filters: created_at
+  search: 
+  application: dealmap
+
+Deal:
+  fields:
+    default: rss_deal_id, title, description, deal_url, deal_thumb, user_id, category_id, category
+    form: rss_deal_id, title, description, deal_url, deal_thumb, user_id, category_id, category
+  order_by: 
+  relationships: category, deal_location, sale_detail
+  filters: created_at
+  search: title
+  application: dealmap
+
+DealLocation:
+  fields:
+    default: deal_location, deal_id
+    form: deal_location, deal_id
+  order_by: 
+  relationships: 
+  filters: created_at
+  search: 
+  application: dealmap
+
+Sale:
+  fields:
+    default: purchase_date, total_amount, quantity, status, user_id
+    form: purchase_date, total_amount, quantity, status, user_id
+  order_by: 
+  relationships: 
+  filters: created_at
+  search: 
+  application: dealmap
+
+SaleDetail:
+  fields:
+    default: sale_id, deal_id, sale
+    form: sale_id, deal_id, sale
+  order_by: 
+  relationships: sale
+  filters: created_at
+  search: 
+  application: dealmap
+
+User:
+  fields:
+    default: email, first_name, last_name, company_name, user_type
+    form: email, password, first_name, last_name, company_name, user_type
+  order_by: 
+  relationships: deal, sale, user_type
+  filters: created_at
+  search: 
+  application: dealmap
+
+UserType:
+  fields:
+    default: description
+    form: description
+  order_by: 
+  relationships: 
+  filters: created_at
+  search: 
+  application: dealmap
+

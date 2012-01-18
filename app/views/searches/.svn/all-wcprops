@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/DealMap/!svn/ver/6/trunk/application/app/views/searches
+END
+new.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/DealMap/!svn/ver/6/trunk/application/app/views/searches/new.html.erb
+END
+show.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/DealMap/!svn/ver/6/trunk/application/app/views/searches/show.html.erb
+END

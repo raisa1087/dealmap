@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/DealMap/!svn/ver/6/trunk/application/test/unit
+END
+user_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/DealMap/!svn/ver/4/trunk/application/test/unit/user_test.rb
+END
+user_type_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/DealMap/!svn/ver/4/trunk/application/test/unit/user_type_test.rb
+END
+sale_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/DealMap/!svn/ver/4/trunk/application/test/unit/sale_test.rb
+END
+.gitkeep
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/DealMap/!svn/ver/4/trunk/application/test/unit/.gitkeep
+END
+deal_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/DealMap/!svn/ver/4/trunk/application/test/unit/deal_test.rb
+END
+search_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/DealMap/!svn/ver/6/trunk/application/test/unit/search_test.rb
+END
+sale_detail_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/DealMap/!svn/ver/4/trunk/application/test/unit/sale_detail_test.rb
+END
+category_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/DealMap/!svn/ver/4/trunk/application/test/unit/category_test.rb
+END
+deal_location_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/DealMap/!svn/ver/4/trunk/application/test/unit/deal_location_test.rb
+END

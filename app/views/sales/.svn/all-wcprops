@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/DealMap/!svn/ver/4/trunk/application/app/views/sales
+END
+edit.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/DealMap/!svn/ver/4/trunk/application/app/views/sales/edit.html.erb
+END
+index.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/DealMap/!svn/ver/4/trunk/application/app/views/sales/index.html.erb
+END
+new.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/DealMap/!svn/ver/4/trunk/application/app/views/sales/new.html.erb
+END
+show.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/DealMap/!svn/ver/4/trunk/application/app/views/sales/show.html.erb
+END
+_form.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/DealMap/!svn/ver/4/trunk/application/app/views/sales/_form.html.erb
+END

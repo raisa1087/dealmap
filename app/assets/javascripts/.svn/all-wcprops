@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/DealMap/!svn/ver/6/trunk/application/app/assets/javascripts
+END
+deal_locations.js.coffee
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/DealMap/!svn/ver/4/trunk/application/app/assets/javascripts/deal_locations.js.coffee
+END
+users.js.coffee
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/DealMap/!svn/ver/4/trunk/application/app/assets/javascripts/users.js.coffee
+END
+user_types.js.coffee
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/DealMap/!svn/ver/4/trunk/application/app/assets/javascripts/user_types.js.coffee
+END
+categories.js.coffee
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/DealMap/!svn/ver/4/trunk/application/app/assets/javascripts/categories.js.coffee
+END
+deal.js.coffee
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/DealMap/!svn/ver/4/trunk/application/app/assets/javascripts/deal.js.coffee
+END
+sales.js.coffee
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/DealMap/!svn/ver/4/trunk/application/app/assets/javascripts/sales.js.coffee
+END
+deals.js.coffee
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/DealMap/!svn/ver/4/trunk/application/app/assets/javascripts/deals.js.coffee
+END
+sale_details.js.coffee
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/DealMap/!svn/ver/4/trunk/application/app/assets/javascripts/sale_details.js.coffee
+END
+jquery-ui-1.8.9.custom.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/DealMap/!svn/ver/6/trunk/application/app/assets/javascripts/jquery-ui-1.8.9.custom.min.js
+END
+application.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/DealMap/!svn/ver/6/trunk/application/app/assets/javascripts/application.js
+END
+jquery-1.4.4.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/DealMap/!svn/ver/6/trunk/application/app/assets/javascripts/jquery-1.4.4.min.js
+END

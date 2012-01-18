@@ -1,0 +1,52 @@
+<div id="search_div">
+<h1>Search Deals</h1>
+</div>
+
+<div id="tabs">
+	<ul>
+		<li><a href="#tab_one"><span>Map View</span></a></li>
+		<li><a href="#tab_two"><span>List View</span></a></li>
+	</ul>
+	<div id="tab_one">
+	</div>
+	<div id="tab_two">
+		<div id="">	
+		<h1>Listing deals</h1>
+		
+		<table>
+		  <tr>
+		    <th>Rss deal</th>
+		    <th>Title</th>
+		    <th>Description</th>
+		    <th>Deal url</th>
+		    <th>Deal thumb</th>
+		    <th>User</th>
+		    <th>Category</th>
+		    <th></th>
+		    <th></th>
+		    <th></th>
+		  </tr>
+		
+		<% @deals.each do |deal| %>
+		  <tr>
+		    <td><%= deal.rss_deal_id %></td>
+		    <td><%= deal.title %></td>
+		    <td><%= deal.description %></td>
+		    <td><%= deal.deal_url %></td>
+		    <td><%= deal.deal_thumb %></td>
+		    <td><%= deal.user_id %></td>
+		    <td><%= deal.category_id %></td>
+		    <td><%= link_to 'Show', deal %></td>
+		    <td><%= link_to 'Edit', edit_deal_path(deal) %></td>
+		    <td><%= link_to 'Destroy', deal, confirm: 'Are you sure?', method: :delete %></td>
+		  </tr>
+		<% end %>
+		</table>
+		</div>
+	</div>
+</div>
+
+
+<br />
+
+<div id="nav_deal"><%= link_to 'Add Deal', new_deal_path %></div>

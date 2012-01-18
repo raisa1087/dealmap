@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/DealMap/!svn/ver/7/trunk/application
+END
+Gemfile.lock
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/DealMap/!svn/ver/7/trunk/application/Gemfile.lock
+END
+Rakefile
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/DealMap/!svn/ver/4/trunk/application/Rakefile
+END
+README.rdoc
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/DealMap/!svn/ver/4/trunk/application/README.rdoc
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/DealMap/!svn/ver/6/trunk/application/.project
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/DealMap/!svn/ver/6/trunk/application/.gitignore
+END
+Gemfile
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/DealMap/!svn/ver/7/trunk/application/Gemfile
+END
+config.ru
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/DealMap/!svn/ver/4/trunk/application/config.ru
+END
+jquery_ui_rails_helpers.gemspec
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/DealMap/!svn/ver/6/trunk/application/jquery_ui_rails_helpers.gemspec
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/DealMap/!svn/ver/6/trunk/application/app/models
+END
+category.rb
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/DealMap/!svn/ver/4/trunk/application/app/models/category.rb
+END
+deal_location.rb
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/DealMap/!svn/ver/4/trunk/application/app/models/deal_location.rb
+END
+user.rb
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/DealMap/!svn/ver/4/trunk/application/app/models/user.rb
+END
+user_type.rb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/DealMap/!svn/ver/4/trunk/application/app/models/user_type.rb
+END
+.gitkeep
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/DealMap/!svn/ver/4/trunk/application/app/models/.gitkeep
+END
+sale.rb
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/DealMap/!svn/ver/4/trunk/application/app/models/sale.rb
+END
+deal.rb
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/DealMap/!svn/ver/4/trunk/application/app/models/deal.rb
+END
+search.rb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/DealMap/!svn/ver/6/trunk/application/app/models/search.rb
+END
+sale_detail.rb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/DealMap/!svn/ver/4/trunk/application/app/models/sale_detail.rb
+END

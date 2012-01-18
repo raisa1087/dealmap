@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/DealMap/!svn/ver/4/trunk/application/config/initializers
+END
+inflections.rb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/DealMap/!svn/ver/4/trunk/application/config/initializers/inflections.rb
+END
+typus_resources.rb
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/DealMap/!svn/ver/4/trunk/application/config/initializers/typus_resources.rb
+END
+session_store.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/DealMap/!svn/ver/4/trunk/application/config/initializers/session_store.rb
+END
+typus.rb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/DealMap/!svn/ver/4/trunk/application/config/initializers/typus.rb
+END
+secret_token.rb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/DealMap/!svn/ver/4/trunk/application/config/initializers/secret_token.rb
+END
+backtrace_silencers.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/DealMap/!svn/ver/4/trunk/application/config/initializers/backtrace_silencers.rb
+END
+mime_types.rb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/DealMap/!svn/ver/4/trunk/application/config/initializers/mime_types.rb
+END
+wrap_parameters.rb
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/DealMap/!svn/ver/4/trunk/application/config/initializers/wrap_parameters.rb
+END

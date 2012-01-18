@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/DealMap/!svn/ver/6/trunk/application/log
+END
+development.log
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/DealMap/!svn/ver/6/trunk/application/log/development.log
+END
+.gitkeep
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/DealMap/!svn/ver/4/trunk/application/log/.gitkeep
+END
+production.log
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/DealMap/!svn/ver/6/trunk/application/log/production.log
+END

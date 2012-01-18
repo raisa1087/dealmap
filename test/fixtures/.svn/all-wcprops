@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/DealMap/!svn/ver/6/trunk/application/test/fixtures
+END
+deal_locations.yml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/DealMap/!svn/ver/4/trunk/application/test/fixtures/deal_locations.yml
+END
+users.yml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/DealMap/!svn/ver/4/trunk/application/test/fixtures/users.yml
+END
+user_types.yml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/DealMap/!svn/ver/4/trunk/application/test/fixtures/user_types.yml
+END
+categories.yml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/DealMap/!svn/ver/4/trunk/application/test/fixtures/categories.yml
+END
+.gitkeep
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/DealMap/!svn/ver/4/trunk/application/test/fixtures/.gitkeep
+END
+sales.yml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/DealMap/!svn/ver/4/trunk/application/test/fixtures/sales.yml
+END
+deals.yml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/DealMap/!svn/ver/4/trunk/application/test/fixtures/deals.yml
+END
+sale_details.yml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/DealMap/!svn/ver/4/trunk/application/test/fixtures/sale_details.yml
+END
+searches.yml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/DealMap/!svn/ver/6/trunk/application/test/fixtures/searches.yml
+END

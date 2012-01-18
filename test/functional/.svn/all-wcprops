@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/DealMap/!svn/ver/6/trunk/application/test/functional
+END
+searches_controller_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/DealMap/!svn/ver/6/trunk/application/test/functional/searches_controller_test.rb
+END
+deal_locations_controller_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/DealMap/!svn/ver/4/trunk/application/test/functional/deal_locations_controller_test.rb
+END
+users_controller_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/DealMap/!svn/ver/4/trunk/application/test/functional/users_controller_test.rb
+END
+.gitkeep
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/DealMap/!svn/ver/4/trunk/application/test/functional/.gitkeep
+END
+user_types_controller_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/DealMap/!svn/ver/4/trunk/application/test/functional/user_types_controller_test.rb
+END
+categories_controller_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/DealMap/!svn/ver/4/trunk/application/test/functional/categories_controller_test.rb
+END
+deal_controller_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/DealMap/!svn/ver/4/trunk/application/test/functional/deal_controller_test.rb
+END
+sales_controller_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/DealMap/!svn/ver/4/trunk/application/test/functional/sales_controller_test.rb
+END
+deals_controller_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/DealMap/!svn/ver/4/trunk/application/test/functional/deals_controller_test.rb
+END
+sale_details_controller_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/DealMap/!svn/ver/4/trunk/application/test/functional/sale_details_controller_test.rb
+END

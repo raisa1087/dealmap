@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  rss_deal_id: MyString
+  title: MyString
+  description: MyText
+  deal_url: MyString
+  deal_thumb: MyString
+  user_id: 1
+  category_id: 1
+
+two:
+  rss_deal_id: MyString
+  title: MyString
+  description: MyText
+  deal_url: MyString
+  deal_thumb: MyString
+  user_id: 1
+  category_id: 1

@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  purchase_date: 2012-01-16 11:10:50
+  total_amount: 
+  quantity: 1
+  status: MyString
+  user_id: 1
+
+two:
+  purchase_date: 2012-01-16 11:10:50
+  total_amount: 
+  quantity: 1
+  status: MyString
+  user_id: 1

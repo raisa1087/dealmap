@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/DealMap/!svn/ver/6/trunk/application/config/environments
+END
+test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/DealMap/!svn/ver/4/trunk/application/config/environments/test.rb
+END
+development.rb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/DealMap/!svn/ver/6/trunk/application/config/environments/development.rb
+END
+production.rb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/DealMap/!svn/ver/4/trunk/application/config/environments/production.rb
+END

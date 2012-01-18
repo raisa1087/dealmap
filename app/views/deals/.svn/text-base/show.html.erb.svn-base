@@ -1,0 +1,40 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <b>Rss deal:</b>
+  <%= @deal.rss_deal_id %>
+</p>
+
+<p>
+  <b>Title:</b>
+  <%= @deal.title %>
+</p>
+
+<p>
+  <b>Description:</b>
+  <%= @deal.description %>
+</p>
+
+<p>
+  <b>Deal url:</b>
+  <%= @deal.deal_url %>
+</p>
+
+<p>
+  <b>Deal thumb:</b>
+  <%= @deal.deal_thumb %>
+</p>
+
+<p>
+  <b>User:</b>
+  <%= @deal.user_id %>
+</p>
+
+<p>
+  <b>Category:</b>
+  <%= @deal.category_id %>
+</p>
+
+
+<%= link_to 'Edit', edit_deal_path(@deal) %> |
+<%= link_to 'Back', deals_path %>

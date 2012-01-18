@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/DealMap/!svn/ver/6/trunk/application/app/helpers
+END
+deal_locations_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/DealMap/!svn/ver/4/trunk/application/app/helpers/deal_locations_helper.rb
+END
+users_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/DealMap/!svn/ver/4/trunk/application/app/helpers/users_helper.rb
+END
+user_types_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/DealMap/!svn/ver/4/trunk/application/app/helpers/user_types_helper.rb
+END
+application_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/DealMap/!svn/ver/4/trunk/application/app/helpers/application_helper.rb
+END
+categories_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/DealMap/!svn/ver/4/trunk/application/app/helpers/categories_helper.rb
+END
+deal_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/DealMap/!svn/ver/4/trunk/application/app/helpers/deal_helper.rb
+END
+sales_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/DealMap/!svn/ver/4/trunk/application/app/helpers/sales_helper.rb
+END
+deals_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/DealMap/!svn/ver/4/trunk/application/app/helpers/deals_helper.rb
+END
+sale_details_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/DealMap/!svn/ver/4/trunk/application/app/helpers/sale_details_helper.rb
+END
+searches_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/DealMap/!svn/ver/6/trunk/application/app/helpers/searches_helper.rb
+END
